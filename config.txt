@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 alikey="yyy"
+=======
+db=test
+host=localhost
+wechatappkey='sssss'
+>>>>>>> wechat
